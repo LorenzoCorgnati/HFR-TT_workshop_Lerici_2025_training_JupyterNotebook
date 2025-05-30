@@ -1,5 +1,5 @@
 # HFR-TT_workshop_Lerici_2025_training_JupyterNotebook
-This ython-based Jupyter notebook (EU_HFR_NODE_Lerici2025.ipynb) focuses on providing basic routines for inspecting the HFR-derived surface current dataset produced by the operational Near Real Time (NRT) workflow of the [European HFR Node](https://www.hfrnode.eu/). The inspection is useful for assessing the datasets and modify the processing and QC parameters, if needed.
+This Python-based Jupyter notebook (EU_HFR_NODE_Lerici2025.ipynb) focuses on providing basic routines for inspecting the HFR-derived surface current dataset produced by the operational Near Real Time (NRT) workflow of the [European HFR Node](https://www.hfrnode.eu/). The inspection is useful for assessing the datasets and modify the processing and QC parameters, if needed.
 The operational routines of the European HFR Node are available on the GitHub repository [https://github.com/LorenzoCorgnati/EU_HFR_NODE_pyHFR](https://github.com/LorenzoCorgnati/EU_HFR_NODE_pyHFR).
 
 The datasets used by this notebook are directly read from the [THREDDS Data Server](https://thredds.hfrnode.eu) of the European HFR Node.
