@@ -21,7 +21,7 @@ The required packages are:
 
 
 Cite as:
-Lorenzo Corgnati. (2025). HFR-TT_workshop_Lerici_2025_training_JupyterNotebook.
+Lorenzo Corgnati. (2025). HFR-TT_workshop_Lerici_2025_training_JupyterNotebook.DOI 10.5281/zenodo.15554600
 
 
 Author: Lorenzo Corgnati
